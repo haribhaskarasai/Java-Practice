@@ -1,0 +1,19 @@
+package com.main;
+
+import com.model.User;
+import com.service.LoginService;
+
+public class LoginApp {
+
+	public static void main(String[] args) {
+		User user1 = new User(12, "hari", "secret");
+		User user2 = new User(13, "venky", "nencheppa");
+		LoginService loginService = new LoginService();
+		String ans = loginService.validateUser(user1);
+		System.out.println(ans);
+		String ans2 = loginService.validateUser(user2);
+		System.out.println(ans2);
+
+	}
+
+}

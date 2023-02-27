@@ -1,0 +1,15 @@
+package com.main;
+
+import com.model.User;
+
+public class LoginApp {
+
+	public static void main(String[] args) {
+	User user1=new User(12, "hari", "secret");
+	User user2=new User(13, "venky", "nencheeppa");
+	
+	
+
+	}
+
+}

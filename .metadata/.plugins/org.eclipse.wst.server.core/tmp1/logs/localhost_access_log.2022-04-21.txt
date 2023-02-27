@@ -1,0 +1,6 @@
+127.0.0.1 - - [21/Apr/2022:11:53:27 +0530] "GET / HTTP/1.1" 404 751
+0:0:0:0:0:0:0:1 - - [21/Apr/2022:11:53:28 +0530] "GET /hrapp/WEB-INF/classes/com/controller/HrController.java HTTP/1.1" 404 682
+0:0:0:0:0:0:0:1 - - [21/Apr/2022:11:53:36 +0530] "GET /hrapp/getdepartment HTTP/1.1" 404 682
+0:0:0:0:0:0:0:1 - - [21/Apr/2022:11:53:51 +0530] "GET /hrapp/getDepartment HTTP/1.1" 200 319
+127.0.0.1 - - [21/Apr/2022:11:58:25 +0530] "GET / HTTP/1.1" 404 751
+0:0:0:0:0:0:0:1 - - [21/Apr/2022:11:58:26 +0530] "GET /hrapp/WEB-INF/classes/com/controller/HrController.java HTTP/1.1" 404 682

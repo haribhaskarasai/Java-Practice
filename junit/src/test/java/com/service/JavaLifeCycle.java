@@ -1,0 +1,22 @@
+package com.service;
+
+import org.junit.AfterClass;
+import org.junit.Before;
+import org.junit.Test;
+
+public class JavaLifeCycle {
+	@Before
+	public void init() {
+		System.out.println("Init method -- setUP");
+	}
+
+	@Test
+	public void sayHello() {
+		System.out.println("SayHello is tested");
+	}
+
+	@AfterClass
+	public static void bye() {
+		System.out.println("Good Bye");
+	}
+}

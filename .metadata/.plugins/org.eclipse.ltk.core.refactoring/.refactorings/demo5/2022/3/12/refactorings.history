@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename type &apos;com.stg.main.addressMain&apos; to &apos;AddressMain&apos;&#x0D;&#x0A;- Original project: &apos;demo5&apos;&#x0D;&#x0A;- Original element: &apos;com.stg.main.addressMain&apos;&#x0D;&#x0A;- Renamed element: &apos;com.stg.main.AddressMain&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;addressMain&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src&lt;com.stg.main{addressMain.java[addressMain" matchStrategy="1" name="AddressMain" qualified="false" references="true" similarDeclarations="false" stamp="1647585544241" textual="false" version="1.0"/>
+</session>

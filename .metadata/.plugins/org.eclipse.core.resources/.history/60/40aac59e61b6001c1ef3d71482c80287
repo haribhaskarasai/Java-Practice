@@ -1,0 +1,5 @@
+package com.defaultdemo;
+
+public interface MyInterface2 {
+
+}

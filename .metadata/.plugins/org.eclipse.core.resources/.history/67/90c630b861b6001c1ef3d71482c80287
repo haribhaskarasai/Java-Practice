@@ -1,0 +1,16 @@
+package com.defaultdemo;
+
+public class MyInterfaceImpl implements MyInterface,MyInterface2 {
+
+	@Override
+	public void display() {
+		System.out.println("Display run time polymorphism");
+
+	}
+
+	@Override
+	public int add(int a, int b) {
+		return a + b + 100;
+	}
+
+}
